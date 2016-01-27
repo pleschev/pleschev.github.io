@@ -227,10 +227,16 @@ blockquote p:last-child {
   }
 }
 
+em {
+  text-align: center;
+  display: block;
+  border-radius: 5px;
+}
+
 img {
   display: block;
-  max-width: 100%;
-  margin: 0 0 1rem;
+  max-width: 50%;
+  margin: 0 auto;
   border-radius: 5px;
 }
 
