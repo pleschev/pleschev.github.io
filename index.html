@@ -13,8 +13,13 @@ title: Home
     </h1>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
+    {{ post.excerpt }}
 
-    {{ post.content }}
+    <b>
+      <a href="{{ site.baseurl }}/{{ post.url }}">
+        Read more
+      </a>
+    </b> - <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.url }}"></a>
   </div>
   {% endfor %}
 </div>
@@ -35,4 +40,5 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+{% include comment_count.html %}
 
