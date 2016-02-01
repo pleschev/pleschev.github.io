@@ -9,5 +9,4 @@ title:               'Peter Leschev'
 tagline:             Blog
 description:         "Peter Leschev's Blog"
 url:                 http://peter.leschev.com
-baseurl:             ''
 paginate:            5
