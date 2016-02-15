@@ -12,7 +12,7 @@ I've been cleaning out my home office recently, throwing out stuff that has accu
 
 The LCD screens from all 3 laptops still worked though. Searching around on the net, I found the [e-qstore](http://www.ebay.com.au/usr/e-qstore) on ebay selling [LCD Controller Boards](http://www.ebay.com.au/itm/121059321784) that convert old LCD screens into monitors that accepts HDMI, DVI & VGA. 
 
-I've always wanted an excuse to play with the [Raspberry Pi](https://www.raspberrypi.org/), and having 3 LCD screens ready to go was perfect. I ordered a couple [Raspberry Pi 2 Model Bs](http://littlebirdelectronics.com.au/products/raspberry-pi-2-model-b-2), it's amazing have a linux host that you can SSH into that is so small!
+I've always wanted an excuse to play with the [Raspberry Pi](https://www.raspberrypi.org/), and having 3 LCD screens ready to go was perfect. I ordered a couple of [Raspberry Pi 2 Model Bs](http://littlebirdelectronics.com.au/products/raspberry-pi-2-model-b-2), it's amazing to have a linux host that you can SSH into that is so small!
 
 The first problem I wanted to solve was the displaying of family photos. We have an old digital photo frame, which has a really low resolution and photos need to be loaded in via an SD card (a non trivial workflow, so it was rarely done). I had a beautiful 1920x1200 LCD screen from my old MacbookPro which was ready to be used!
 
